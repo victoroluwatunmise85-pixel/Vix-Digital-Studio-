@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "vix-digital-studio.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "vix-digital-studio.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
